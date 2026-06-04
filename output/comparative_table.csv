@@ -1,0 +1,4 @@
+Surface ID,Surface Type,Area (m²),Material Category,Product Name,Manufacturer,Location,Country,EPD Number,Total CO₂e (kg),CO₂e per m² (kg/m²),Rank,Distance (km),Geo Score,Carbon Score,Combined Score
+floor_01,Floor,120.0,Steel,GreenSteel Structural Section (RHS 150x100),Pacific Steel Manufacturing,"Brisbane, QLD, Australia",AU,EPD-AUS-2024-0201,428610.0,3571.75,1,16947.1,0.0,0.0,0.0
+roof_01,Roof,120.0,Wood,StructaBoard Timber CLT Panel,AusTimber Innovations Pty Ltd,"Melbourne, VIC, Australia",AU,EPD-AUS-2024-0142,1047.6,8.73,1,16824.5,1.0,1.0,1.0
+wall_north,Wall,85.0,Concrete,EcoSlab Ready-Mix Concrete 32 MPa,Concrete Solutions Pty Ltd,"Sydney, NSW, Australia",AU,EPD-AUS-2023-0089,4768.5,56.1,1,17179.3,0.0,0.0,0.0

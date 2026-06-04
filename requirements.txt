@@ -1,0 +1,8 @@
+aecdata
+pdfplumber
+reportlab
+geopy
+pandas
+python-dotenv
+requests
+jinja2
