@@ -1,0 +1,39 @@
+{
+  "project": "SURROUND Massing — Material Study",
+  "site": "22@ Poblenou, Barcelona, Spain",
+  "massing_obj": "C:\\Users\\Acer\\OneDrive\\Documents\\01_IAAC\\Research_Studio\\Term_03\\SURROUND_UPFRONT-CARBON-Rim\\massing\\imported_massing.obj",
+  "render_mode": "vtk-pbr",
+  "final_render": "C:\\Users\\Acer\\OneDrive\\Documents\\01_IAAC\\Research_Studio\\Term_03\\SURROUND_UPFRONT-CARBON-Rim\\output\\massing_render.png",
+  "glb": "C:\\Users\\Acer\\OneDrive\\Documents\\01_IAAC\\Research_Studio\\Term_03\\SURROUND_UPFRONT-CARBON-Rim\\output\\massing.glb",
+  "faces_by_group": {
+    "roof": 290,
+    "wall": 13053,
+    "floor": 1681
+  },
+  "surfaces": [
+    {
+      "surface_type": "Roof",
+      "material_category": "wood",
+      "product_name": "StructaBoard Timber CLT Panel",
+      "manufacturer": "AusTimber Innovations Pty Ltd",
+      "co2e_per_m2": 8.73,
+      "texture_source": "library"
+    },
+    {
+      "surface_type": "Wall",
+      "material_category": "concrete",
+      "product_name": "EcoSlab Ready-Mix Concrete 32 MPa",
+      "manufacturer": "Concrete Solutions Pty Ltd",
+      "co2e_per_m2": 56.1,
+      "texture_source": "library"
+    },
+    {
+      "surface_type": "Floor",
+      "material_category": "steel",
+      "product_name": "GreenSteel Structural Section (RHS 150x100)",
+      "manufacturer": "Pacific Steel Manufacturing",
+      "co2e_per_m2": 3571.75,
+      "texture_source": "library"
+    }
+  ]
+}

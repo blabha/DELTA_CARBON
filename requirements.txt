@@ -1,0 +1,7 @@
+pillow
+numpy
+pandas
+requests
+python-dotenv
+beautifulsoup4      # optional: nicer texture scraping (regex fallback if absent)
+google-genai        # optional: real Gemini render (mock fallback if absent)

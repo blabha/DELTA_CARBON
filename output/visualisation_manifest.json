@@ -1,0 +1,40 @@
+{
+  "project": "22@ Poblenou Residential Block",
+  "site": "22@ Poblenou, Barcelona, Spain",
+  "building_type": "Residential",
+  "render_mode": "mock",
+  "render_path": "C:\\Users\\Acer\\OneDrive\\Documents\\01_IAAC\\Research_Studio\\Term_03\\SURROUND_UPFRONT-CARBON-Rim\\output\\final_render.png",
+  "textured_massing": "C:\\Users\\Acer\\OneDrive\\Documents\\01_IAAC\\Research_Studio\\Term_03\\SURROUND_UPFRONT-CARBON-Rim\\output\\textured_massing.png",
+  "surfaces": [
+    {
+      "surface_id": "floor_01",
+      "surface_type": "Floor",
+      "product_name": "GreenSteel Structural Section (RHS 150x100)",
+      "manufacturer": "Pacific Steel Manufacturing",
+      "material_category": "steel",
+      "co2e_per_m2": 3571.75,
+      "texture_source": "procedural",
+      "texture_path": "C:\\Users\\Acer\\OneDrive\\Documents\\01_IAAC\\Research_Studio\\Term_03\\SURROUND_UPFRONT-CARBON-Rim\\assets\\textures\\floor_01_steel.png"
+    },
+    {
+      "surface_id": "wall_north",
+      "surface_type": "Wall",
+      "product_name": "EcoSlab Ready-Mix Concrete 32 MPa",
+      "manufacturer": "Concrete Solutions Pty Ltd",
+      "material_category": "concrete",
+      "co2e_per_m2": 56.1,
+      "texture_source": "procedural",
+      "texture_path": "C:\\Users\\Acer\\OneDrive\\Documents\\01_IAAC\\Research_Studio\\Term_03\\SURROUND_UPFRONT-CARBON-Rim\\assets\\textures\\wall_north_concrete.png"
+    },
+    {
+      "surface_id": "roof_01",
+      "surface_type": "Roof",
+      "product_name": "StructaBoard Timber CLT Panel",
+      "manufacturer": "AusTimber Innovations Pty Ltd",
+      "material_category": "wood",
+      "co2e_per_m2": 8.73,
+      "texture_source": "procedural",
+      "texture_path": "C:\\Users\\Acer\\OneDrive\\Documents\\01_IAAC\\Research_Studio\\Term_03\\SURROUND_UPFRONT-CARBON-Rim\\assets\\textures\\roof_01_wood.png"
+    }
+  ]
+}

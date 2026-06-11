@@ -1,0 +1,22 @@
+# --- Secrets: never commit ---
+.env
+*.env
+!.env.example
+*.key
+*.pem
+
+# --- Large 3D model (exceeds GitHub 100MB limit) ---
+Massing-Model 7 version.obj
+*.obj
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
