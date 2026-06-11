@@ -1,3 +1,4 @@
+*.obj
 venv/
 __pycache__/
 *.pyc
