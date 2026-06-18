@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "2fUUmqzUgqU=",
   "success": true,
   "projectFilePath": "C:\\Users\\marts\\Documents\\10_IAAC\\3_third term\\Programming for AI\\SURROUND_UPFRONT-CARBON\\SurroundPlugin\\SurroundPlugin.csproj",
+=======
+  "dgSpecHash": "u/ooERutw/Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marts\\Documents\\10_IAAC\\3_third term\\Research studio\\SURROUND_UPFRONT-CARBON\\SurroundPlugin\\SurroundPlugin.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [
     "C:\\Users\\marts\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
     "C:\\Users\\marts\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"

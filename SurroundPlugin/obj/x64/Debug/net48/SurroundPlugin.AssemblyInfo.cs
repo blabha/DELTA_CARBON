@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Real-time embodied carbon assessment for Rhino 7/8")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40865c5f3983aadc0aa8707c78bc0dac396f834d")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c6d604629b1433b91c46ac1a89fff68c11ce5ac")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("SURROUND Carbon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SURROUND Carbon Plugin for Rhino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "C:\\Users\\marts\\Documents\\10_IAAC\\3_third term\\Programming for AI\\SURROUND_UPFRONT-CARBON\\SurroundPlugin\\SurroundPlugin.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\marts\\Documents\\10_IAAC\\3_third term\\Programming for AI\\SURROUND_UPFRONT-CARBON\\SurroundPlugin\\SurroundPlugin.csproj",
         "packagesPath": "C:\\Users\\marts\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\marts\\Documents\\10_IAAC\\3_third term\\Programming for AI\\SURROUND_UPFRONT-CARBON\\SurroundPlugin\\obj\\",
+=======
+    "C:\\Users\\marts\\Documents\\10_IAAC\\3_third term\\Research studio\\SURROUND_UPFRONT-CARBON\\SurroundPlugin\\SurroundPlugin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marts\\Documents\\10_IAAC\\3_third term\\Research studio\\SURROUND_UPFRONT-CARBON\\SurroundPlugin\\SurroundPlugin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marts\\Documents\\10_IAAC\\3_third term\\Research studio\\SURROUND_UPFRONT-CARBON\\SurroundPlugin\\SurroundPlugin.csproj",
+        "projectName": "SurroundPlugin",
+        "projectPath": "C:\\Users\\marts\\Documents\\10_IAAC\\3_third term\\Research studio\\SURROUND_UPFRONT-CARBON\\SurroundPlugin\\SurroundPlugin.csproj",
+        "packagesPath": "C:\\Users\\marts\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marts\\Documents\\10_IAAC\\3_third term\\Research studio\\SURROUND_UPFRONT-CARBON\\SurroundPlugin\\obj\\",
+>>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marts\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,7 +64,11 @@
               "autoReferenced": true
             }
           },
+<<<<<<< Updated upstream
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.422\\RuntimeIdentifierGraph.json"
+>>>>>>> Stashed changes
         }
       }
     }
